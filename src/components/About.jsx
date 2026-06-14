@@ -80,7 +80,7 @@ const About = () => {
               </div>
               <div className="focus-card-content">
                 <h4>Production Engineering</h4>
-                <p>Focusing on reliability and day-2 operations: logging pipelines, telemetry, chaos testing, and automated recovery. Building the invisible infrastructure that keeps production stable.</p>
+                <p>Focuses on the reliability, scalability, and operational aspects of software systems. Involves monitoring, logging, incident response, failure recovery, and ensuring services run smoothly in production.</p>
               </div>
             </div>
           </div>
